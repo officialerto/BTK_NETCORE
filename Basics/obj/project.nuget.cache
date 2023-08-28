@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1qR9i0JpkyQ81xQ+87RND517uK68CQLPM9HnhwMJW+hwGbtKAniCBvmcZkfIOKd5EQcpYLxQJZ1nZwSIOHvFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\BTK_NETCORE\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
